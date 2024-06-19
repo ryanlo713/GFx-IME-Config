@@ -36,12 +36,12 @@
         <Tag>GFxIME_Ch_Simp_MSPinyin_3_0</Tag>
         
         <imeName>小狼毫</imeName>
-		<displayName>Weasel</displayName>
-		<Tag>GFxIME_SogouPinyin</Tag>
+	<displayName>Weasel</displayName>
+	<Tag>GFxIME_SogouPinyin</Tag>
 		
-		<imeName>Weasel</imeName>
-		<displayName>Weasel</displayName>
-		<Tag>GFxIME_SogouPinyin</Tag>
+	<imeName>Weasel</imeName>
+	<displayName>Weasel</displayName>
+	<Tag>GFxIME_SogouPinyin</Tag>
 
         <imeName>Chinese (Simplified) - Microsoft Pinyin IME 3.0</imeName>
         <displayName>MSPinyin IME 3.0</displayName>
@@ -361,20 +361,20 @@
         <Tag>GFxIME_Ch_Trad_Quick</Tag>
         
         <imeName>小狼毫</imeName>
-		<displayName>Weasel</displayName>
-		<Tag>GFxIME_Ch_Trad</Tag>
+	<displayName>Weasel</displayName>
+	<Tag>GFxIME_Ch_Trad</Tag>
 		
-		<imeName>Weasel</imeName>
-		<displayName>Weasel</displayName>
-		<Tag>GFxIME_Ch_Trad</Tag>
+	<imeName>Weasel</imeName>
+	<displayName>Weasel</displayName>
+	<Tag>GFxIME_Ch_Trad</Tag>
         
         <imeName>嘸蝦米</imeName>
-		<displayName>WuXia</displayName>
-		<Tag>GFxIME_Ch_Trad_WuXia</Tag>
+	<displayName>WuXia</displayName>
+	<Tag>GFxIME_Ch_Trad_WuXia</Tag>
 		
-		<imeName>WuXia</imeName>
-		<displayName>WuXia</displayName>
-		<Tag>GFxIME_Ch_Trad_WuXia</Tag>
+	<imeName>WuXia</imeName>
+	<displayName>WuXia</displayName>
+	<Tag>GFxIME_Ch_Trad_WuXia</Tag>
     
         <imeName>Chinese (Traditional) - Alphanumeric</imeName>
         <displayName>Alphanumeric</displayName>
